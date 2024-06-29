@@ -5,4 +5,4 @@ This repo contains the implementation of linear programming (including MILP, BIL
 Highlighted project:
 -LeanCapacityPlanningProject-CPLEX.ipynb: A Jupyter notebook for a project with the goal of achieving optimal staff scheduling between senior and junior Physicians at a clinic in order to dedicate more of the senior Physician's time to diagnosing and treating critical patient cases. Example schedule for patient distribution over 10 Sr. and 10 Jr. Physicians in a clinic.
 
-![output6](https://github.com/mohammad-awad-ds/Operations-Research-Prescriptive-Analytics/assets/64756947/64ba0599-515d-435b-8ccd-b7805abcc3f3)
+![image](https://github.com/mohammad-awad-ds/Operations-Research-Prescriptive-Analytics/assets/64756947/3e309ca6-c906-4d1e-b786-b11f09c4a17e)
